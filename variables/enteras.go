@@ -1,6 +1,8 @@
 package variables
 
-import "fmt"
+import (
+	"fmt"
+)
 
 func MuestroEnteros() {
 	var intcomun int
