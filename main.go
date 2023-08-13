@@ -1,10 +1,11 @@
 package main
 
 import (
-	"fmt"
+	// "fmt"
 	// "runtime"
 	// "Go-desde-cero/variables"
 	"Go-desde-cero/ejercicios"
+	// "Go-desde-cero/iteraciones"
 )
 
 func main() {
@@ -14,8 +15,10 @@ func main() {
 	// 	fmt.Println("esto es ", os)
 	// }
 
-	numero, texto := ejercicios.Ejercicio01F("500")
-	fmt.Println(numero);
-	fmt.Println(texto);
+	// numero, texto := ejercicios.Ejercicio01F("500")
+	// fmt.Println(numero);
+	// fmt.Println(texto);
+
+	ejercicios.Ejercicio2()
 }
 
